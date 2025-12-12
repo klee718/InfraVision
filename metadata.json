@@ -1,0 +1,5 @@
+{
+  "name": "InfraVision",
+  "description": "A smart city infrastructure monitoring tool helping City Councilmen visualize failures and analyze budget data using Gemini AI.",
+  "requestFramePermissions": []
+}
